@@ -51,4 +51,8 @@ Run app.py to bring up the webpage on localhost.
   python app.py
   ```
 ## Demo
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+Before Check
+![Image of Safe URL](https://github.com/RoSriv30/safe-URL/blob/main/safeurl1.JPG)
+
+After Check
+![Image of Safe URL2](https://github.com/RoSriv30/safe-URL/blob/main/safeurl2.JPG)
