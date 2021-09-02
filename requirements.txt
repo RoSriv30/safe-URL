@@ -2,7 +2,7 @@ flask
 ipaddress
 regex
 tldextract
-urllib.parse
+urllib3
 requests
 bs4 
 googlesearch 
