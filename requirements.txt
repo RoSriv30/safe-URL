@@ -12,5 +12,4 @@ jsons
 pyopenssl
 pandas 
 scikit-learn
-idna<3,>=2.5
 os
