@@ -1,5 +1,4 @@
 flask
-pickle
 ipaddress
 re
 socket
