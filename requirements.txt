@@ -5,9 +5,8 @@ tldextract
 urllib3
 requests
 bs4 
-googlesearch 
+googlesearch-python 
 whois
-urllib.request
 sys
 xmltodict
 json
