@@ -9,6 +9,6 @@ googlesearch-python
 whois
 xmltodict
 jsons
-ssl
+pyopenssl
 pandas 
 sklearn.ensemble
