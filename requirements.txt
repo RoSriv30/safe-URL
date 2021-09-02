@@ -1,7 +1,6 @@
 flask
 ipaddress
 regex
-socket
 tldextract
 urllib.parse
 requests
