@@ -11,4 +11,4 @@ xmltodict
 jsons
 pyopenssl
 pandas 
-skikit-learn
+scikit-learn
