@@ -3,7 +3,7 @@ ipaddress
 regex
 tldextract
 urllib3
-requests
+requests==2.25.1
 bs4 
 googlesearch-python 
 whois
