@@ -1,4 +1,7 @@
 # Welcome to Safe URL
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-white)
 
 Safe URL is a flask web app that utilizes machine learning to check whether a URL is safe, unsafe, or non-existent. It uses a model trained on the UCI Phishing Dataset (https://archive.ics.uci.edu/ml/datasets/phishing+websites) along with the Random Forest Classifier algorithm to essentially predict the status of a URL.  This app includes a feature extractor which breaks an input URL into 30 distinct features for the model to analyze. 
 The general feature categories include 
